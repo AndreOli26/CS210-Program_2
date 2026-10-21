@@ -3,7 +3,7 @@
 #ifndef LOAD_BALANCER_H
 #define LOAD_BALANCER_H
 
-#include "../request.h"
+#include "request.h"
 #include <queue>     // STL for queue and priority_queue
 #include <stack>     // STL for stack
 
